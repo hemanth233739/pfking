@@ -1,19 +1,10 @@
-<h1 align = "center"> ❝𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐁𝐨𝐭❞ </h1>
+<h1 align = "center"> ❝𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐁𝐨𝐭❞ </h1
 
-### 🎖 History
+<p align = "center"><a herf = "https://t.me/Zaid2_Ro_bot" alt = "Zaid"><img src = "https://telegra.ph/file/a4d36d8fea1e1a9c0e9c7.jpg" width = "900"></a></p>
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Itsunknown-12/TGN-Robot)
-
-<p align = "center"><a herf = "https://t.me/Zaid2_Ro_bot" alt = "Zaid"><img src = "https://telegra.ph/file/54f8bedfdaca2954d2ed4.png" width = "900"></a></p>
 
 <p align = "center">
-<a href = "https://python.org">
-<img src = "https://forthebadge.com/images/badges/made-with-python.svg">
-</p>
-</a>
-
-<p align = "center">
-<a href = "https://github.com/Itsunknown-12/Zaid-Robot">
+<a href = "https://github.com/pokechuff/pfking">
 <img src = "https://forthebadge.com/images/badges/open-source.svg">
 </p>
 </a>
@@ -31,28 +22,15 @@
 - Smart Ai System
 - Easy To Use
 
-Can be found on Telegram as [TGN 💞](https://t.me/TGN_RO_BOT)</br>
-
-
-## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Itsunknown-12&repo=TGN-Robot&theme=dark)
+Can be found on Telegram as [PF KING 👑](https://t.me/PF_KING_BOT)</br>
 
 ## 🅓🅔🅟🅛🅞🅨
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsunknown-12/TGN-Robot)
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pokechuff/TGN-Robot)
 
-
-## 🆅🅴🆁🅸🅰🅱🅻🅴🆂
-[ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/Itsunknown-12/Zaid-Robot/blob/master/Configuration)
 
 ## 🆂🆄🅿🅿🅾🆁🆃
-[![Zaid](https://img.shields.io/badge/Zaid-Channel-red?style=for-the-badge&logo=telegram)](https://t.me/SUPERIOR_BOTS)</br></br>
-[![Zaid](https://img.shields.io/badge/Superior-Group-red?style=for-the-badge&logo=telegram)](https://t.me/SUPERIOR_SUPPORT)</br></br>
-[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Timesisnotwaiting)
-
-## 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅾🅳🅴🆂...
-
- - Saitama Robot - for Modules
- - Layla Bot - for Some Help modules
- - innexia - for some Button And Helps
+[PF SUPPORT 💞](https://t.me/pfsupportff)
 
 
+
+[PF FAMILY 🔥](https://t.me/pf_family_ff)
